@@ -1,7 +1,7 @@
 # Sistema de Cadastro de Usuários
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/ab45cd05-a039-4340-a55d-4c20ab251992" alt="Renomeador de Arquivos e Pastas" />
+    <img src="https://github.com/user-attachments/assets/45514bb1-bc82-4a87-8632-d398c0dcd091" alt="Renomeador de Arquivos e Pastas" />
 </div>
 <br/><br/>
 
@@ -31,4 +31,4 @@ Este projeto é um sistema web simples de cadastro de usuários desenvolvido com
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/alexandrefreitass/simple-user-cadastro
